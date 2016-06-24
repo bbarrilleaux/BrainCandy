@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# must do sudo python from within the rpi-rgb-led-matrix-master folder
-# must have animated gifs in your folder
 
 def gen_map():
    matrix = (32, 32)
